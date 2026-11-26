@@ -1,0 +1,6 @@
+{
+	"name": "ArenaSurvival.Core",
+	"references": [
+		"Unity.InputSystem"
+	]
+}
